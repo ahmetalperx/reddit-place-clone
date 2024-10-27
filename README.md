@@ -23,4 +23,4 @@ Check out the live demo of the project at : [https://ahmetalper-reddit-place-clo
 
 ## Screenshots
 
-![Demo](images/demo.png)
+![Canvas](images/canvas.png)
